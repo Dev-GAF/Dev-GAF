@@ -1,43 +1,30 @@
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-<h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+Hi, I'm Dev-GAF 👋+%3C%2F%3E" alt="Typing SVG" /></a>
-</h2>
+###
 
-## 👨‍💻 About Me
-I'm a developer passionate about technology and learning new skills.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 🤝 Connect with Me
-Not provided
-
-## 🛠️ Languages and Tools
-#### Frontend
-Not provided
-
-#### Backend
-Not provided
-
-#### Programming Languages
-Not provided
-
-#### Databases
-Not provided
-
-#### App Development
-Not provided
-
-#### Other Tools
-Not provided
-
-## 📊 GitHub Stats </b>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-GAF&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="mrsubha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-GAF&theme=dark&hide_border=false" alt="mrsubha" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-GAF&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="MrSubha420" /></p>
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-GAF&theme=tokyonight)
-
-## 🔥 Top Contributed Repositories
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=Dev-GAF&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
