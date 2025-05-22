@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-GAF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&custom_title=%F0%9F%93%8A%20GitHub%20Stats" height="230" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-GAF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&custom_title=%E2%9A%99%EF%B8%8F%20Frequently%20used%20Tech" height="230" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-GAF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&custom_title=%F0%9F%93%8A%20GitHub%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-GAF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&custom_title=%E2%9A%99%EF%B8%8F%20Frequently%20used%20Tech" height="200" alt="languages graph"  />
 </div>
 
 <div>
