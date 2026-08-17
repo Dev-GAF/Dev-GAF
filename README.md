@@ -73,7 +73,7 @@
     height="170"
   />
   <img
-    src="https://streak-stats.demolab.com?user=Dev-GAF&theme=blue-green&hide_border=false&border_radius=5"
+    src="https://streak-stats.demolab.com?user=Dev-GAF&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5"
     alt="GitHub streak"
     height="170"
   />
