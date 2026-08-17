@@ -1,4 +1,4 @@
-<h2 align="center">Hello! Welcome to my GitHub Profile :)</h2>
+<h1 align="center">Hello! Welcome to my GitHub Profile :)</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="37" alt="Java" />
