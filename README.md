@@ -2,57 +2,57 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="37" alt="Java" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=py" height="37" alt="Python" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=c" height="37" alt="C" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=ts" height="37" alt="TypeScript" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=js" height="37" alt="JavaScript" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="Node.js" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="Next.js" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="37" alt="React" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="37" alt="Tailwind CSS" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=css" height="37" alt="CSS" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=html" height="37" alt="HTML" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=vite" height="37" alt="Vite" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="37" alt="Docker" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=aws" height="37" alt="AWS" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="PostgreSQL" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="37" alt="SQL Server" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="37" alt="MongoDB" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=prisma" height="37" alt="Prisma" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=linux" height="37" alt="Linux" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="37" alt="Debian" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="37" alt="Ubuntu" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" height="37" alt="Git" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="37" alt="Insomnia" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=spring" height="37" alt="Spring" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=vscode" height="37" alt="VS Code" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=idea" height="37" alt="IntelliJ IDEA" />
-  <img width="15" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=php" height="37" alt="PHP" />
 </div>
 
