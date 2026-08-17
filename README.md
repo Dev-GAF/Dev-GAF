@@ -75,6 +75,7 @@
   <img
     src="https://streak-stats.demolab.com?user=Dev-GAF&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5"
     alt="GitHub streak"
+    height="170"
   />
 </div>
 
