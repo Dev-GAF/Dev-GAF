@@ -70,7 +70,7 @@
   <img
     src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/languages-output/languages.svg"
     alt="Most used languages"
-    height="200"
+    height="190"
   />
   <img
     src="https://streak-stats.demolab.com?user=Dev-GAF&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5"
