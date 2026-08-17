@@ -80,7 +80,7 @@
   />
 
   <img
-    src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/trophy-output/trophy.svg"
+    src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/main/trophy.svg"
     height="150"
     alt="GitHub trophies"
   />
