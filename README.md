@@ -66,25 +66,29 @@
 
 <br>
 
-<div align="center">
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/languages-output/languages.svg"
-    height="150"
+    width="49%"
     alt="Most used languages"
+    height="200"
   />
-
   <img
     src="https://streak-stats.demolab.com?user=Dev-GAF&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5"
-    height="122"
+    width="49%"
     alt="GitHub streak"
   />
+</p>
 
+<br>
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/main/trophy.svg"
-    height="150"
+    width="90%"
     alt="GitHub trophies"
   />
-</div>
+</p>
 
 <br>
 
