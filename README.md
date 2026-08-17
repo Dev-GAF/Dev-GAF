@@ -1,67 +1,106 @@
-<h1 align="center">🧑🏻‍💻 Welcome to my GitHub Profile! ¹¹¹</h1>
-
-###
+<h2 align="center">Hello! Welcome to my GitHub Profile :)</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="34" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="34" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="34" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="34" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="34" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="34" alt="intellij logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="37" alt="Java" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=py" height="37" alt="Python" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=c" height="37" alt="C" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=ts" height="37" alt="TypeScript" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=js" height="37" alt="JavaScript" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="Node.js" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="Next.js" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=react" height="37" alt="React" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="37" alt="Tailwind CSS" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=css" height="37" alt="CSS" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=html" height="37" alt="HTML" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=vite" height="37" alt="Vite" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=docker" height="37" alt="Docker" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=aws" height="37" alt="AWS" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="PostgreSQL" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="37" alt="SQL Server" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="37" alt="MongoDB" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="37" alt="Prisma" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=linux" height="37" alt="Linux" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="37" alt="Debian" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="37" alt="Ubuntu" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=git" height="37" alt="Git" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="37" alt="Insomnia" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=spring" height="37" alt="Spring" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="37" alt="VS Code" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=idea" height="37" alt="IntelliJ IDEA" />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=php" height="37" alt="PHP" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <a href="https://br.linkedin.com/in/guilherme-fortes-gaf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-GAf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img
+    src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/languages-output/languages.svg"
+    height="150"
+    alt="Most used languages"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=Dev-GAF&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5"
+    height="122"
+    alt="GitHub streak"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/trophy-output/trophy.svg"
+    height="150"
+    alt="GitHub trophies"
+  />
 </div>
 
-###
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-GAf/Dev-GAf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-GAf/Dev-GAf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dev-GAf/Dev-GAf/output/pacman-contribution-graph.svg">
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/pacman-output/galaga-contribution-graph-dark.svg"
+  />
 
-###
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/pacman-output/galaga-contribution-graph.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Dev-GAF/Dev-GAF/pacman-output/galaga-contribution-graph.svg"
+    alt="GitHub contribution graph"
+  />
+</picture>
